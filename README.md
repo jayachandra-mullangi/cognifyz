@@ -1,2 +1,4 @@
 # cognifyz
-my new repo
+my new repositiory..
+cognifyz projects
+
